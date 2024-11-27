@@ -1,5 +1,5 @@
-tensorflow
 tensorflow-macos
 tensorflow-metal
-tensorflow_probability
+tensorflow-probability
 matplotlib
+pydots
