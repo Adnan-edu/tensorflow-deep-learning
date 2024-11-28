@@ -3,3 +3,4 @@ tensorflow-metal
 tensorflow-probability
 matplotlib
 pydots
+pandas
