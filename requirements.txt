@@ -4,3 +4,4 @@ tensorflow-probability
 matplotlib
 pydots
 pandas
+scikit-learn
