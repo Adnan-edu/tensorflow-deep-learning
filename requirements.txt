@@ -5,3 +5,4 @@ matplotlib
 pydots
 pandas
 scikit-learn
+tensorflow_datasets
