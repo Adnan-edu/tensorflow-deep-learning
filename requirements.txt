@@ -6,3 +6,5 @@ pydots
 pandas
 scikit-learn
 tensorflow_datasets
+tensorflow_hub
+seaborn
