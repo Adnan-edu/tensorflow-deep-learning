@@ -6,3 +6,4 @@ __MACOSX/
 transfer_learning/
 ten_percent_model_checkpoints_weights/
 101_food_classes_10_percent/
+pubmed-rct/
