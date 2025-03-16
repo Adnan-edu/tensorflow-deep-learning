@@ -217,6 +217,7 @@ width="800">
 - Performance evaluation
 - Error analysis and model improvement
 
+<a id="07-milestone-project-1-food-vision-big"></a>
 ### 07: Milestone Project 1 🍔👁 : Food Vision Big™
 
 **File:** `07_food_vision_milestone_project_1.ipynb`
@@ -264,6 +265,7 @@ Coloured block example of the structure of an recurrent neural network.
 <img src="https://camo.githubusercontent.com/b7f28f4799fababd975053019ed8cfcb8b6980c685035edd5fd3c7d2f17c3209/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7264626f75726b652f74656e736f72666c6f772d646565702d6c6561726e696e672f6d61696e2f696d616765732f30382d524e4e2d6172636869746563747572652d636f6c6f757265642d626c6f636b2d65646974696f6e2e706e67"
 width="800">
 
+<a id="09-milestone-project-2-skimlit"></a>
 ### 09: Milestone Project 2: SkimLit 📄🔥
 
 **File:** `09_skimlit_nlp_milestone_project_2.ipynb`
@@ -284,6 +286,7 @@ width="800">
 
 **Project goal:** Replicate the deep learning model from the paper "PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts" to improve readability of medical research abstracts.
 
+<a id="10-milestone-project-3-bitpredict"></a>
 ### 10: Milestone Project 3: BitPredict 💰📈
 
 **File:** `10_time_series_forecasting_in_tensorflow.ipynb`
@@ -374,6 +377,8 @@ jupyter notebook
 # Or JupyterLab
 jupyter lab
 ```
+
+<a id="exercises-and-solutions"></a>
 ## ![Exercises Badge](https://img.shields.io/badge/Exercises-Solutions-blue?style=flat-square)
 
 Each main topic includes exercise notebooks with solutions to help reinforce learning. These exercises challenge you to apply the concepts covered in the main notebooks to similar but slightly different problems.
@@ -388,6 +393,7 @@ Each main topic includes exercise notebooks with solutions to help reinforce lea
 - `08_natural_language_processing_with_tensorflow_exercises.ipynb`
 - `10_time_series_forecasting_in_tensorflow_exercise_solutions.ipynb`
 
+<a id="resources"></a>
 ## ![Resources Badge](https://img.shields.io/badge/Resources-Papers-blue?style=flat-square)
 
 ### Additional Reading
@@ -404,7 +410,7 @@ Each main topic includes exercise notebooks with solutions to help reinforce lea
 3. [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
 4. [Neural basis expansion analysis for interpretable time series forecasting (N-BEATS)](https://arxiv.org/abs/1905.10437)
 
-
+<a id="credits"></a>
 ## ![Credits Badge](https://img.shields.io/badge/Credits-DanielBourke-blue?style=flat-square)
 
 The content is based on Daniel's comprehensive deep learning course and reflects his expertise in making complex deep learning concepts accessible through practical, hands-on examples.
